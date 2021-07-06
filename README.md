@@ -1,9 +1,9 @@
-👋Hi, I’m Miguel Angel Sanchez R.
-🚀Ingeniero y programador autodidacta
-🗺Emprendedor de tiempo completo
-🌐Intereses: E-commerce, Web Scraping...
-⌚CEO en Just Watches Colombia
-📫 How to reach me: miangel00.77@gmail.com, Instagram: @miguelsanchezco, Twitter: @miguesanchezco
+-👋Hi, I’m Miguel Angel Sanchez R.
+-🚀Ingeniero y programador autodidacta
+-🗺Emprendedor de tiempo completo
+-🌐Intereses: E-commerce, Web Scraping...
+-⌚CEO en Just Watches Colombia
+-📫 How to reach me: miangel00.77@gmail.com, Instagram: @miguelsanchezco, Twitter: @miguesanchezco
 
 <!---
 malosopt/malosopt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
