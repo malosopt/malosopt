@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Miguel Angel Sanchez
-- 👀 I’m interested in ... Programming, Engeniering, Stocks and Crossfit
-- 🌱 I’m currently learning Python programming, Invest in Stocks and English
-- 💞️ I’m looking to collaborate on Web Scraping
-- 📫 How to reach me: miangel00.77@gmail.com, Instagram: @15novmasr, Twitter: @15Once94
+👋Hi, I’m Miguel Angel Sanchez R.
+🚀Ingeniero y programador autodidacta
+🗺Emprendedor de tiempo completo
+🌐Intereses: E-commerce, Web Scraping...
+⌚CEO en Just Watches Colombia
+📫 How to reach me: miangel00.77@gmail.com, Instagram: @miguelsanchezco, Twitter: @miguesanchezco
 
 <!---
 malosopt/malosopt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
