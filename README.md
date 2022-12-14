@@ -6,7 +6,9 @@
 
 🌐Intereses: E-commerce, Web Scraping...
 
-⌚CEO en Just Watches Colombia
+⌚CEO en Biseli Relojeria   https://biseli.com
+
+⌚CEO en Automeli www.automeli.com
 
 📫 How to reach me: miangel00.77@gmail.com, Instagram: @miguelsanchezco, Twitter: @miguesanchezco
 
