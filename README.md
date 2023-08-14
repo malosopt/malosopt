@@ -6,7 +6,7 @@
 
 🌐Intereses: E-commerce, Web Scraping...
 
-⌚CEO en Biseli Relojeria   https://biseli.com
+⌚CEO en Biseli Relojeria   https://biselirelojeria.com
 
 ⌚CEO en Automeli www.automeli.com
 
