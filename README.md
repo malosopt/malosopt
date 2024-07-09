@@ -6,9 +6,9 @@
 
 🌐Intereses: E-commerce, Web Scraping...
 
-⌚CEO en Biseli Relojeria   https://biselirelojeria.com
-
 ⌚CEO en Automeli www.automeli.com
+
+⌚CEO en Biseli Relojeria   https://biselirelojeria.com
 
 📫 How to reach me: miangel00.77@gmail.com, Instagram: @miguelsanchezco, Twitter: @miguesanchezco
 
